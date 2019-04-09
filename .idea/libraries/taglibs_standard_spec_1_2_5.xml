@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="taglibs-standard-spec-1.2.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Microsoft.SkypeApp_kzf8qxf38zg5c!App/All/apache-tomcat-8.5.38/webapps/examples/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
